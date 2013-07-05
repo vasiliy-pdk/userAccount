@@ -1,0 +1,1 @@
+Yii-module that brings extendible, robust and secure user's account framework into amazing projects

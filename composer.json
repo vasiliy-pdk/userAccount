@@ -1,0 +1,6 @@
+{
+    "name": "vasiliy-pdk/userAccount",
+    "type": "yii-extension",
+    "description": "Yii-module that brings extendible, robust and secure user's account framework into amazing projects.",
+    "keywords": ["yii", "user", "userAccount", "user account", "registration", "recovery"]
+}
